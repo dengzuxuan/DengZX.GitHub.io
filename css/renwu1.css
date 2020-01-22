@@ -1,0 +1,82 @@
+html{height: 100%;width: 100%;}
+
+body{height: 100%;width: 100%;}
+
+
+#part1 {background-image: url("../pic/5.png");
+         height:100%;width:100%;padding: 0px  }
+div{font-family: Arial;
+    font-size: 25px;
+    line-height: 10px;
+}
+
+.t2{text-align: center;
+   color: white;}
+
+#part2{border : 1px solid black;
+    height: 40%;
+  width:85%;
+margin-left:100px;
+border-radius: 20px
+;}
+form{
+	text-align: center;
+}
+
+.t3{
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Helvetica;
+}
+.t1{
+  text-align: center;
+  color: black;
+  font-size: 32px;
+  font-family: Helvetica;
+}
+
+.part41{
+  margin-left: 200px;
+  height: 200px;
+  width: 400px;
+}
+
+.part42{
+  margin-left: 800px;
+  margin-top:-200px;
+  height: 200px;
+  width: 400px;
+}
+
+.part43{
+  margin-left: 200px;
+  margin-top: 200px;
+  height: 200px;
+  width: 400px;
+}
+
+.part44{
+  margin-left: 800px;
+  margin-top: -200px;
+  height: 200px;
+  width: 400px;
+}
+
+
+
+.p41,.t41{
+  float: left;
+}
+
+.p42,.t42{
+  float: left;
+}
+
+.p43,.t43{
+  float: left;
+}
+
+.p44,.t44{
+  float: left;
+}
