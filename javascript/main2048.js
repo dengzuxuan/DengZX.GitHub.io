@@ -105,25 +105,25 @@ $(document).keydown(function(event){
         case 37://左
             if(moveLeft()){
                 setTimeout("generateOneNumber()",210);
-                steTimeout("isgameover()",300);
+                setTimeout("isgameover()",300);
           }
             break;
         case 38://上
             if(moveUp()){
                 setTimeout("generateOneNumber()",210);
-                steTimeout("isgameover()",300);
+                setTimeout("isgameover()",300);
           }
             break;
         case 39://右
             if(moveRight()){
                 setTimeout("generateOneNumber()",210);
-                steTimeout("isgameover()",300);
+                setTimeout("isgameover()",300);
           }
             break;
         case 40://下
             if(moveDown()){
                 setTimeout("generateOneNumber()",210);
-                steTimeout("isgameover()",300);
+                setTimeout("isgameover()",300);
           }
             break;
     default:
