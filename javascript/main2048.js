@@ -268,7 +268,7 @@ function moveUp(){
 
         
 function moveDown(){
-    if(!canMoveUp(board))
+    if(!canMoveDown(board))
         return false;
     //moveleft
     for(var j=0;j<4;j++)//这里的遍历时j列全部遍历，最后行不遍历
